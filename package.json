@@ -1,0 +1,15 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "houchenll",
+  "license": "ISC",
+  "dependencies": {
+    "github-webhook-handler": "^1.0.0",
+    "shelljs": "^0.8.4"
+  }
+}
